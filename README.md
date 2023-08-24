@@ -1,7 +1,4 @@
-# File-Management-System-Simulation
-implemented and compared performance of different file structure simulations such as contiguous allocation, indexed allocation, linked allocation
-
-This program was made as a part of Assignement for the course CS588:Computer Systems Lab by Prof. Moumita Patra, IITG, CSE for semester Jan-May 2023 . Detailed Problem Statement can be found in Assignment6.pdf Question 2.
-
-THis program is meant to compare the performance of different file structures in terms of time complexity and internal and external fragmentations.
+# File-Management-System-Simulation and performance analysis.
+-Implemented and conducted performance analysis of various file structure simulations, including contiguous allocation, indexed allocation, linked allocation, and modified contiguous allocation. 
+-The project aims to evaluate time complexity, internal fragmentation, and external fragmentation across different file structure strategies. The simulation provides insights into the efficiency and trade-offs of each approach without directly impacting a real file management system architecture
 
